@@ -1,0 +1,7 @@
+{
+  "HelloCdkStack": {
+    "Endpoint8024A810": "https://3qxdv2ou08.execute-api.us-east-1.amazonaws.com/prod/",
+    "rdsendpoint": "hr1bob2vflnotfc.cnjam5yyizmx.us-east-1.rds.amazonaws.com",
+    "frontend": "https://main.d2d22sqc4068ko.amplifyapp.com"
+  }
+}
